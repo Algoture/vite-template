@@ -8,9 +8,7 @@ export default function LandingPage() {
       <p className="text-lg text-muted-foreground">
         A template, fast, and modern UI setup using ShadCN and Vite.
       </p>
-      <a
-        href="https://github.com/shadcn-ui/next-template/blob/main/app/page.tsx"
-        target="_blank">
+      <a href="https://github.com/Algoture/vite-template" target="_blank">
         <Button variant="default">Github</Button>
       </a>
     </div>
