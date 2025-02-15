@@ -11,6 +11,6 @@ git clone https://github.com/Algoture/vite-template
 ## Features
 
 - Radix UI Primitives
-- Tailwind CSS
+- Tailwind v3.4.17
 - ShadCN UI with JS
 - Icons from [Lucide](https://lucide.dev)
